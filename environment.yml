@@ -2,5 +2,4 @@ name: skillbox_ds_hw
 dependencies:
     - python=3.7
     - pandas
-    - sklearn
     - matplotlib
